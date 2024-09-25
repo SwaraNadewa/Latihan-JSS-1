@@ -1,3 +1,5 @@
+//ini javasript//
+
 function replaceName() {
 
     let name = prompt("Siapa Nama Anda ?", "")
